@@ -25,17 +25,17 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:brk3/androidquery.git</connection>
-        <developerConnection>scm:git:git@github.com:brk3/androidquery.git</developerConnection>
-        <url>git@github.com:brk3/androidquery.git</url>
+        <connection>scm:git:git@github.com:krlf/androidquery.git</connection>
+        <developerConnection>scm:git:git@github.com:krlf/androidquery.git</developerConnection>
+        <url>git@github.com:krlf/androidquery.git</url>
       <tag>HEAD</tag>
   </scm>
 
     <developers>
         <developer>
-            <id>peter</id>
-            <name>Peter Liu</name>
-            <email>tinyeeliu@gmail.com</email>
+            <id>krlf</id>
+            <name>krlf</name>
+            <email>krlf@ya.ru</email>
         </developer>
     </developers>
 

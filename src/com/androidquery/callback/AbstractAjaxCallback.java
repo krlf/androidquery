@@ -1735,7 +1735,7 @@ public abstract class AbstractAjaxCallback<T, K> implements Runnable{
         File file = null;
         File tempFile = null;
         
-        if(code < 200 || code >= 300){     
+        if(null == entity || code < 200 || code >= 300){
         	
         	InputStream is = null;
         	
